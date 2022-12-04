@@ -1,29 +1,20 @@
-# client
+# VUE-VUEX-TAILWINDCSS-TEMPLATE
+Basic template to start with VUE, VUEX and TAILWINDCSS
 
-## Project setup
-
+## INIT PROJECT
+Open terminal and install nodepackages
 ```
-npm install
+npm i
 ```
 
-### Compiles and hot-reloads for development
-
+### START DEV SERVER
+Server for development
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-
+### BUILD PROJECT
+Build the project
 ```
 npm run build
 ```
-
-### Lints and fixes files
-
-```
-npm run lint
-```
-
-### Customize configuration
-
-See [Configuration Reference](https://cli.vuejs.org/config/).
